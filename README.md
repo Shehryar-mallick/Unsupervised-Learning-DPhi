@@ -27,5 +27,5 @@ Libraries Used:
   yellowbrick
   missingno
 
-> Model Creation, Evaluation, Feature Scaling, Preprocessing
+> Model Creation, Evaluation, Feature Scaling, Preprocessing:
   sklearn
